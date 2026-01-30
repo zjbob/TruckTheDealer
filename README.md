@@ -31,5 +31,5 @@ Playing the game:
 
 1. Install dependencies with `npm install`
 2. Download Expo Go on your phone (iOS or Android)
-3. Run the app with `npx expo start`
+3. Run the app with `npx expo start --tunnel`
 4. Scan the QR code with Expo Go to open the app on your phone
